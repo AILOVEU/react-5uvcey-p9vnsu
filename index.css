@@ -1,0 +1,7 @@
+.ant-tree-node-content-wrapper .icon-wrapper {
+  opacity: 0.1;
+}
+
+.ant-tree-node-content-wrapper:hover .icon-wrapper {
+  opacity: 1;
+}
